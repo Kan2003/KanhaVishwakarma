@@ -104,7 +104,7 @@ export default function Projects({ data }: { data: PortfolioData }) {
                 ref={(el) => { visualsRef.current[i] = el; }}
                 className="kc-pwork-visual"
               >
-                <img src={p.image} alt="" loading={i === 0 ? "eager" : "lazy"} />
+                <img src={p?.image} alt="" loading={i === 0 ? "eager" : "lazy"} />
               </div>
             ))}
           </div>
