@@ -81,7 +81,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       stack: ["React", "TypeScript", "TSX", "Storybook", "SCSS"],
       meta: "Component system",
       link: "https://github.com/Kan2003",
-      image: "../public/assets/toolkit.png",
+      image: "/assets/toolkit.png",
     },
     {
       num: "03",
@@ -92,7 +92,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       stack: ["React", "TypeScript", "Appwrite", "React Query", "Shadcn", "Tailwind"],
       meta: "Social platform",
       link: "https://github.com/Kan2003/Snapgram",
-      image: "../public/assets/snap.gram.png",
+      image: "/assets/snap.gram.png",
     },
     {
       num: "04",
@@ -103,7 +103,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       stack: ["PHP", "MySQL", "HTML", "CSS", "JavaScript"],
       meta: "Minor project",
       link: "https://github.com/Kan2003/MinorProject",
-      image: "../public/assets/medicare.png",
+      image: "/assets/medicare.png",
     },
     {
       num: "05",
@@ -114,7 +114,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       stack: ["React", "TypeScript", "Tailwind", "Responsive UI", "Dashboards"],
       meta: "ERP dashboard",
       link: "https://github.com/Kan2003/ENTNT_ERP_SYSTEM",
-      image: "../public/assets/erp.png",
+      image: "/assets/erp.png",
     },
   ],
   skills: [
