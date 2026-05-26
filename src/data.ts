@@ -70,7 +70,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       stack: ["MongoDB", "Express", "React", "Node.js", "Tailwind", "JWT", "Chrome ext."],
       meta: "09/2024 → 01/2025",
       link: "https://github.com/Kan2003/pratifal_fullStack",
-      image: "../public/assets/pratifal.png",
+      image: "/assets/pratifal.png",
     },
     {
       num: "02",
